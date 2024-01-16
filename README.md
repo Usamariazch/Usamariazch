@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Usamariazch
-- 👀 I’m interested in ... 3 modelling۔۔۔vedio editing and animations
-- 🌱 I’m currently learning ... 3d modeling (soft surface)
-- 💞️ I’m looking to collaborate on ... 3d moddeling (game developement) & vedio editing and animations
+- 👀 I’m interested in ...Cloud Computing
+- 🌱 I’m currently learning ... AWS/AZURE
+- 💞️ I’m looking to collaborate on ... AWS//AZURE and CloudComputing
 - 📫 How to reach me ... Mail:usamariazch1999@gmail۔com
 
 <!---
